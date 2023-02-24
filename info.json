@@ -1,0 +1,9 @@
+{
+    "name": "Factorio_Greg_Mod",
+    "version": "0.0.1",
+    "title": "Gregou Mod",
+    "author": "Gregou",
+    "description": "A mod made by Gregou",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1.0"]
+}
